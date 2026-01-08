@@ -29,8 +29,11 @@ Git & GitHub used properly (branches, commits, README discipline)
 🛠 Tech Stack
 
 Languages   : Python, C, Bash
+
 Tools       : Git, Linux, VS Code
+
 Security    : Kali Linux, Nmap (learning), Burp (basics)
+
 Hardware    : Arduino, Sensors
 
 📌 Projects (No Fake Stuff)
